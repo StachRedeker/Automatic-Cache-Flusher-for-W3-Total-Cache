@@ -1,5 +1,5 @@
 # Automatic Cache Flusher for W3 Total Cache
-// This plugin flushes the W3 Total Cache after a plugin update.
+> This plugin flushes the W3 Total Cache after a plugin update.
 
 ## Description
 
@@ -9,7 +9,7 @@ W3 Total Cache recommends clearing your cache after a (plugin) update to prevent
 
 You need this plugin if you are looking for a simple, no-code solution for preventing cache conflicts with W3 Total Cache after a plugin update.
 
-### When you do not need this plugin =
+### When you do not need this plugin
 
 If you are familiar with child themes, then you can add some code to your child theme to achieve the same functionality:
 
