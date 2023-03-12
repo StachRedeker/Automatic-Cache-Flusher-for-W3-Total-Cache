@@ -42,6 +42,11 @@ After installing and activating, the plugin works automatically.
 
 Issues with 'Automatic Cache Flusher for W3 Total Cache' fall within the scope of the support, issues with W3 Total Cache do not. Please use the appropriate forums, [issues on Github](https://github.com/StachRedeker/Automatic-Cache-Flusher-for-W3-Total-Cache/issues), or send an [email](mailto:info@stachredeker.nl).
 
+## Licence
+
+This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) file for details.
+
+
 ## Changelog
 
 v1.0. Stable version of the plugin.
