@@ -3,7 +3,7 @@
 Plugin Name: Automatic Cache Flusher for W3 Total Cache
 Plugin URI: https://github.com/StachRedeker/Automatic-Cache-Flusher-for-W3-Total-Cache
 Description: This plugin flushes the W3 Total Cache after a plugin update.
-Version: 1.0
+Version: 1.0.0
 Author: <a href="https://www.stachredeker.nl/">Stach Redeker</a> & <a href="https://colingerritsen.com/">Colin Gerritsen</a>
 License: GPL v3 or later
 License URI: https://gnu.org/licenses/gpl-3.0.html
