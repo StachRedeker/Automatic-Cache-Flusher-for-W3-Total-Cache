@@ -6,6 +6,7 @@ Tested up to: 6.1.1
 Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: https://gnu.org/licenses/gpl-3.0.html
+Donate link: https://ko-fi.com/stachredeker
 
 This plugin flushes the W3 Total Cache after a plugin update.
 
@@ -41,4 +42,4 @@ Issues with 'Automatic Cache Flusher for W3 Total Cache' fall within the scope o
 
 == Changelog ==
 
-v1.0. Stable version of the plugin.
+v1.0.0 Stable version of the plugin.
