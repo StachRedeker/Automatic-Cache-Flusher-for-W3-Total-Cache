@@ -14,7 +14,6 @@ jobs:
       env:
         SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
         SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
-        IGNORE_OTHER_FILES: true
         SKIP_ASSETS : true
         SLUG: automatic-cache-flusher-for-w3-total-cache
         
