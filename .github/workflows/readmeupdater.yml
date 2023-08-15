@@ -2,9 +2,9 @@ name: Plugin asset/readme update
 on:
   push:
     branches:
-    - trunk
+    - main
 jobs:
-  trunk:
+  main:
     name: Push to trunk
     runs-on: ubuntu-latest
     steps:
