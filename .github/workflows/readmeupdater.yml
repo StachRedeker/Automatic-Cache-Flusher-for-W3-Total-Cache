@@ -16,6 +16,5 @@ jobs:
         SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
         IGNORE_OTHER_FILES: true
         SKIP_ASSETS : true
-        README_NAME : /trunk/readme.txt
         SLUG: automatic-cache-flusher-for-w3-total-cache
         
