@@ -49,4 +49,5 @@ This project is licensed under the GPL-3.0 license - see the [LICENSE](LICENSE) 
 
 ## Changelog
 
-v1.0.0 Stable version of the plugin.
+- v1.0.0 Stable version of the plugin.
+- v1.0.1 Minor wording changes.
