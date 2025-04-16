@@ -2,7 +2,7 @@
 Contributors: stachredeker
 Tags: automatic cache flusher, cache, cache flusher, flusher, cache flush on update, W3 Total cache
 Requires at least: 5.3
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: https://gnu.org/licenses/gpl-3.0.html
