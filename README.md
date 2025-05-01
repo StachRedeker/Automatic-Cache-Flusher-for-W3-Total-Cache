@@ -7,7 +7,7 @@ W3 Total Cache recommends clearing your cache after a (plugin) update to prevent
 
 ### When you need this plugin
 
-You need this plugin if you are looking for a simple, no-code solution for preventing cache conflicts with W3 Total Cache after a plugin update.
+You need this plugin if you are looking for a simple, no-code solution for preventing cache conflicts with W3 Total Cache after a plugin, theme, core, or translation update.
 
 ### When you do not need this plugin
 
