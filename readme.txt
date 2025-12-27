@@ -1,6 +1,6 @@
 === Automatic Cache Flusher for W3 Total Cache ===
 Contributors: stachredeker
-Tags: automatic cache flusher, cache, cache flusher, flusher, cache flush on update, W3 Total cache
+Tags: automatic cache flusher, cache, cache flusher, cache flush on update, W3 Total cache
 Requires at least: 5.3
 Tested up to: 6.9
 Stable tag: 1.0.1
